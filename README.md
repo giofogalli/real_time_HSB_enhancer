@@ -12,12 +12,12 @@ frame_size [int: width height]*: 640 480 (default), 1920 1080, 3840 2160 ... <br
 *it will aprox. to closest camera resolution. <br />
 
 Common resolutions (16:9):<br />
-High Definition (HD)    1280 x 720<br />
-Full HD, FHD            1920 x 1080<br />
-2K, Quad HD, QHD        2560 x 1440<br />
-4K, Ultra HD            3840 x 2160<br />
-5K, Ultra HD            5120 x 2880<br />
-8K, Ultra HD            7680 x 4320<br />
+High Definition (HD) __ 1280 x 720<br />
+Full HD, FHD __________ 1920 x 1080<br />
+2K, Quad HD, QHD ______ 2560 x 1440<br />
+4K, Ultra HD __________ 3840 x 2160<br />
+5K, Ultra HD __________ 5120 x 2880<br />
+8K, Ultra HD __________ 7680 x 4320<br />
 
 ### Real time USB Compliant Camera
 
